@@ -30,6 +30,7 @@ public class Main {
 		// Saldação com o nome.
 		System.out.printf("Olá %s!\n", nome);
 		
+		// NOTA: Implementar leitura da idade e exibi-la.
 	}
 
 }
